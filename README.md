@@ -28,11 +28,18 @@ Udacity Flutter course: https://www.udacity.com/course/build-native-mobile-apps-
 * Testing: https://flutter.dev/docs/testing
 
 ## Additional 
-* Mtechviral Youtube channel
+* [Mtechviral](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA) Youtube
 * Flutter Master (github repo)
 * FlutterExampleApps (github repo)
 * Sophia Martin blogs: https://sophiamartin121.medium.com/
 * Flutter Devs blogs: https://medium.com/flutterdevs
 * Youtube flutter playlist (https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
-## Feel free to 🍴 and if you find it helpful then 🌟 the repository.
+## Practice Basic Flutter Apps
+* [LoginApp](https://github.com/prateek-code-22/LoginApp)
+* [Weather App](https://github.com/prateek-code-22/Weather-App)
+
+
+
+
+## Feel free to 🍴 and Contribute to this repo, if you find it helpful then 🌟 the repository.
